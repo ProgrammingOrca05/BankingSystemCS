@@ -1,0 +1,14 @@
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+D:\UniAndWork\Programming\C#\HCI\BankingTask\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll
